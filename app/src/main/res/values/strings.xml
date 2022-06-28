@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">FindPark</string>
+    <string name="Registrar">Sign-Up</string>
+    <string name="Ingresar">Sign-in</string>
+    <string name="hola_bienvenido">Hola BIENVENIDO</string>
+
+</resources>
